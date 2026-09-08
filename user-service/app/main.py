@@ -140,3 +140,4 @@ def health_check() -> dict[str, str]:
         "service": "user-service",
     }# Triggering initial CD pipeline run
 # retry trigger
+# retry trigger 2
