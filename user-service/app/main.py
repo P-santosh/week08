@@ -141,3 +141,4 @@ def health_check() -> dict[str, str]:
     }# Triggering initial CD pipeline run
 # retry trigger
 # retry trigger 2
+# redeploy after recreating AKS for 9.1P
