@@ -142,3 +142,4 @@ def health_check() -> dict[str, str]:
 # retry trigger
 # retry trigger 2
 # redeploy after recreating AKS for 9.1P
+# redeploy after recreating AKS for 9.3C
